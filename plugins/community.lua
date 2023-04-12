@@ -6,6 +6,7 @@ return {
 
   -- Pack
   { import = "astrocommunity.pack.lua" },
+  { import = "astrocommunity.pack.prisma" },
   { import = "astrocommunity.pack.tailwindcss" },
   { import = "astrocommunity.pack.typescript" },
 
